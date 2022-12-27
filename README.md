@@ -1,6 +1,6 @@
 # Kodluyoruz Harmonik Seri Hesaplama
 
-Java ile girilen sayının harmonik serisini bulan program yazacağız.
+Java ile girilen sayının harmonik serisini bulan program.
 
 Harmonik Seri Formülü :
 
